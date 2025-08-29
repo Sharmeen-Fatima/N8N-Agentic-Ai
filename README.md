@@ -1,11 +1,18 @@
 # New Technology Unlock
-## N8N-Agentic-Ai
-<p><b>The pronunciation of "n8n" is "n-eight-n"</b></p>
-<p>Q1. What does <b>N8N</b> Stand for?</p>
-<p>A1. Node For Node (N8N).</p>
-<p>Q2. What is Node?</p>
-<p>A2. A <b>Node</b> is a basic building block in n8n that performs a specific function or task. Everything shown on the workflow canvas—like triggers, actions, or services—is represented as a node.</p>
-<p>Q. Why we say N8N there is no 8 stand for so why we use?.</p>
-<p>A. We say N8N because of spell Node have 4 letters so Node for Node + 8 letters so that's because we say N8N.</p>
 
-### No Code Needed it's Amazing Technology
+## N8N-Agentic-Ai
+
+**The pronunciation of "n8n" is "n-eight-n"**
+
+### Q1. What does **N8N** stand for?
+**A1.** Node for Node (N8N).
+
+### Q2. What is a Node?
+**A2.** A **Node** is a basic building block in n8n that performs a specific function or task. Everything shown on the workflow canvas—like triggers, actions, or services—is represented as a node.
+
+### Q3. Why do we say N8N? There's no "8" in "Node", so why?
+**A3.** We say N8N because the word **Node** has 4 letters, and "N" + "8" (for the 4 letters) + "N" gives us N8N.
+
+---
+
+### 🚀 No Code Needed — It's Amazing Technology!
