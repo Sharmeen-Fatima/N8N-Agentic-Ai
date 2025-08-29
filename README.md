@@ -1,7 +1,7 @@
 # New Technology Unlock
 ## N8N-Agentic-Ai
 
-##### Q. Stand for N8N?
+<p>Q. What does <b>N8N</b> Stand for?</p>
 <p>A. Node For Node (N8N).</p>
 
 ##### Q. Why we say N8N there is no 8 stand for so why we use?.
