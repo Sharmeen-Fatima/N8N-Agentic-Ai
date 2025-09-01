@@ -2,7 +2,7 @@
 
 ## N8N-Agentic-Ai
 
-**The pronunciation of "n8n" is "n-eight-n"**
+**The pronunciation of "n8n" is "n-eight-n.."**
 
 ### Q1. What does **N8N** stand for?
 **A1.** Node for Node (N8N).
