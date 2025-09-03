@@ -5,7 +5,7 @@
 **The pronunciation of "n8n" is "n-eight-n.."**
 
 ### Q1. What does **N8N** stand for?
-**A1.** Node for Node (N8N).
+**A1.** Node for Node (N8N)..
 
 ### Q2. What is a Node?
 **A2.** A **Node** is a basic building block in n8n that performs a specific function or task. Everything shown on the workflow canvas—like triggers, actions, or services—is represented as a node.
