@@ -1,5 +1,4 @@
 # New Technology Unlock 🤖
-
 ## N8N-Agentic-Ai 🤖
 
 ---
@@ -7,12 +6,12 @@
 **The pronunciation of "n8n" is "n-eight-n.." 👍**
 
 ---
-####  Q1. What does **N8N** stand for?🤔
+####  Q1. What does **N8N** stand for?..🤔
 **A1.** Node for Node (N8N)..⭐
 
 ---
 #### Q2. What is a Node?.✨
-**A2.** A **Node** is a basic building block in n8n that performs a specific function or task. Everything shown on the workflow canvas—like triggers, actions, or services—is represented as a node.😊
+**A2.** A **Node** is a basic building block in n8n that performs a specific function or task. Everything shown on the workflow canvas—like triggers, actions, or services—is represented as a node...😊
 
 ---
 #### Q3. Why do we say N8N? There's no "8" in "Node", so why?🤔
